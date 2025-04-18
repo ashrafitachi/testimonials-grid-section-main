@@ -131,6 +131,8 @@ body {
 
     padding: 3rem;
     margin: 10px;
+
+    box-sizing: border-box;
   }
 
   .card-1{
