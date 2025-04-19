@@ -94,15 +94,14 @@ img{
 }
 
 @media (min-width: 1300px) {
-
-
         
  .container{
     display: grid;
     grid-template-columns: repeat(4,1fr);
     grid-template-rows: repeat(2,1fr);
     gap: 16px;
-
+   
+   padding: 300px 200px ;
   }
    .name{
      font-size: 1.2rem;
