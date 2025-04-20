@@ -34,13 +34,7 @@ body{
 
 img{
     border-radius: 50%;
-}
-
-.container{
-    padding: 25px;
-
-   
-}
+  }
 
 .profile{
     display: flex;
